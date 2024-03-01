@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guilhermenovak/home.git/static/css/main.fe927caf.css",
+    "main.js": "/guilhermenovak/home.git/static/js/main.ce49c951.js",
+    "static/js/787.4b24f717.chunk.js": "/guilhermenovak/home.git/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/guilhermenovak/home.git/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/guilhermenovak/home.git/index.html",
+    "main.fe927caf.css.map": "/guilhermenovak/home.git/static/css/main.fe927caf.css.map",
+    "main.ce49c951.js.map": "/guilhermenovak/home.git/static/js/main.ce49c951.js.map",
+    "787.4b24f717.chunk.js.map": "/guilhermenovak/home.git/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.ce49c951.js"
+  ]
+}
