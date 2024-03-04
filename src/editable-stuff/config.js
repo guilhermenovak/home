@@ -6,14 +6,14 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Guilherme",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Nunes",
+  message: " Software Developer ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/guilhermenovak",
     },
     {
       image: "fa-facebook",
@@ -51,11 +51,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/profile.jpeg"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is Guilherme Novakovski Nunes. I'm studying Systems Analysis and Development and have a degree in IT Technician. I have experience in several programming languages ​​such as ReactJS, VueJs, Typescript, Kotlin and Flutter. During my time working with ReactJS and VueJs, I was responsible for creating fully responsive websites. Additionally, I developed applications using Kotlin, and in college some applications using Flutter.",
+  resume: "https://docs.google.com/document/d/1y4j8Jcn92faSVknMur_qP2frCOlcgiBtHntc7bJsgLc/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "guilhermenovak", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -100,23 +100,22 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Kotlin", value: 80 },
+    { name: "React", value: 80 },
+    { name: "Vue", value: 75 },
+    { name: "Java", value: 80 },
+    { name: "JavaScript", value: 80 },
+    { name: "Flutter", value: 65 },
+    { name: "HTML/CSS", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Positivity", value: 85 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
+    { name: "Organization", value: 80 },
     { name: "Creativity", value: 90 },
   ],
 };
