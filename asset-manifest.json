@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/guilhermenovak/home.git/static/css/main.fe927caf.css",
-    "main.js": "/guilhermenovak/home.git/static/js/main.ce49c951.js",
-    "static/js/787.4b24f717.chunk.js": "/guilhermenovak/home.git/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "/guilhermenovak/home.git/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
-    "index.html": "/guilhermenovak/home.git/index.html",
-    "main.fe927caf.css.map": "/guilhermenovak/home.git/static/css/main.fe927caf.css.map",
-    "main.ce49c951.js.map": "/guilhermenovak/home.git/static/js/main.ce49c951.js.map",
-    "787.4b24f717.chunk.js.map": "/guilhermenovak/home.git/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/home/static/css/main.fe927caf.css",
+    "main.js": "/home/static/js/main.6cd18d69.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/profile.jpeg": "/home/static/media/profile.531a40171da464f770f8.jpeg",
+    "index.html": "/home/index.html",
+    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
+    "main.6cd18d69.js.map": "/home/static/js/main.6cd18d69.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.ce49c951.js"
+    "static/js/main.6cd18d69.js"
   ]
 }
